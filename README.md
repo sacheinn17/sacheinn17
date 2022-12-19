@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning
 - 🌱 I’m currently learning how to learn
 - 💞️ I’m looking to collaborate on Learning
-- 📫 How to reach me by learning what I learn
+- 📫 How to reach me? By learning what I learn
 
 <!---
 sacheinn17/sacheinn17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
